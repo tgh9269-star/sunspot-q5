@@ -1,4 +1,4 @@
 streamlit
-pandas
+pandas  == 2.2.2
 matplotlib
-prophet
+prophet == 1.1.6
